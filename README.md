@@ -16,5 +16,4 @@ Welcome to my **Personal Portfolio Website**, a platform showcasing my **skills,
 
 🔹 [**Visit My Portfolio**](https://my-portfolio-one-neon-33.vercel.app/index.html)  
 
-## 📁 **Project Structure**  
 
