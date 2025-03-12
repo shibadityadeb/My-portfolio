@@ -1,4 +1,4 @@
-// contact.js
+
 document.addEventListener("DOMContentLoaded", function () {
     const emailButton = document.getElementById("email-button");
 
