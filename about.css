@@ -2,7 +2,7 @@ body {
     margin: 0;
     overflow: hidden;
     font-family: 'Courier New', monospace;
-    background-color: #0A0F1F; /* Exact match with landing page */
+    background-color: #0A0F1F;
     color: white;
     display: flex;
     justify-content: center;
