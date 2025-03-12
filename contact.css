@@ -1,4 +1,4 @@
-/* contact.css */
+
 body {
     margin: 0;
     font-family: 'Courier New', monospace;
@@ -12,7 +12,6 @@ body {
     overflow: hidden;
 }
 
-/* Background Canvas */
 canvas {
     position: fixed;
     top: 0;
